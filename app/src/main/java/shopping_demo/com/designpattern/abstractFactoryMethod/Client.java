@@ -1,9 +1,9 @@
-package shopping_demo.com.designpattern.factoryMethod;
+package shopping_demo.com.designpattern.abstractFactoryMethod;
 
 class Client {  
     public static void main(String args[]) {  
-    	Factory factory;  
-    	factory = new ConcreteFactory();   
+    	AbsFactory factory;
+    	factory = new ConcreteFactoryA();
     	Product product;  
     	product = factory.factoryMethod();  
     }  

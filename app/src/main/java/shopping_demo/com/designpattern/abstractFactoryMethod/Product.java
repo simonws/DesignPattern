@@ -1,4 +1,4 @@
-package shopping_demo.com.designpattern.factoryMethod;
+package shopping_demo.com.designpattern.abstractFactoryMethod;
 
 abstract class Product {  
     //所有产品类的公共业务方法  

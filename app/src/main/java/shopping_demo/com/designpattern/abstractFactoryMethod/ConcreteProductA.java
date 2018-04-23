@@ -1,4 +1,4 @@
-package shopping_demo.com.designpattern.factoryMethod;
+package shopping_demo.com.designpattern.abstractFactoryMethod;
 
 class ConcreteProductA extends Product {  
      
